@@ -136,7 +136,7 @@ body {
 .pixel-box {
     background-color: rgba(255, 255, 255, 0.85);
     border: 4px solid var(--dark-green);
-    padding: 60px;
+    padding: 40px;
     margin: 5px 0;
     box-shadow: 8px 8px 0 var(--dark-purple);
     position: relative;
